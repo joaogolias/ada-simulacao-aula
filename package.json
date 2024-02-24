@@ -1,0 +1,17 @@
+{
+  "name": "aula_simulacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev part0-code-for-class/index.ts",
+    "dev-part1": "ts-node-dev part1-first-solution/index.ts"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.3.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
